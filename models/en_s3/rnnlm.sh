@@ -1,0 +1,1 @@
+../rnnlm/rnnlm -train ../en_s3.txt -valid ../en_test3.txt -rnnlm model_1349_40_3_1349 -hidden 40 -rand-seed 1 -debug 2 -bptt 3 -class 1349 -min-improvement 1
