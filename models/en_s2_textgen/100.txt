@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 100
+rnnlm file: en_s2/model_250_100_6_243
+▁th e y ▁b ea ck ▁t al ▁m in at e ▁f an ce ▁s oo d ▁ta ke ▁w ist an ce ▁g i o b our ed ▁would ▁much ▁l ar ge ▁one ▁s om et hing ▁said fu l ▁p ri z id ly ▁little ▁could ▁j u m p ed ▁b u sed ▁sh and i ast ▁s n ee g ed ▁c our t ▁said ▁y our e ▁f ound ▁y et ter ▁r ead y ▁w a in ▁d un k ▁say ▁well ▁m c ee ▁go ▁p e op le ▁qu est 

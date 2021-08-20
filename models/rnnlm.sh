@@ -1,1 +1,1 @@
-../rnnlm/rnnlm -train ../bn_s3.txt -valid ../bn_test3.txt -rnnlm model_1972_300_10_1 -hidden 300 -rand-seed 1 -debug 2 -bptt 10 -class 1
+../rnnlm/rnnlm -train ../en_s2.txt -valid ../en_test2.txt -rnnlm model_243_100_6_243 -hidden 100 -rand-seed 1 -debug 2 -bptt 6 -class 243

@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 100
+rnnlm file: en_s3/model_1349_2_10_1
+ly ▁dont ▁please ▁mock ▁alice ▁an t ▁begun ▁dodo ▁began men ▁ring p y ing ▁n e n w r h ed ▁dream ing ▁box ▁make ▁bill ▁keep ▁said ▁alice ▁felt ▁put ▁pocket ▁dont ▁fill ed ▁yet ▁eat ed ▁change ▁hatter ▁round ▁d ally ▁however ▁tea ▁gryphon ▁d ving ▁else ▁hatter ▁watch s ▁pen ▁p is er ▁execut s ▁beauti ▁n ▁tried ▁added ▁st om ▁voice ▁fall es ▁thought ▁alice ▁came ▁three ▁jump ed ▁followed fully ▁important ▁jury ▁shook ▁soup ▁foot ▁back ▁half ▁oh ▁fellow ▁ind sily ▁trees ▁shall ▁sp r am er ▁pardon ▁remember ▁would ▁ill ▁near ▁co lit 

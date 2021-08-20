@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 10
+rnnlm file: en_s3/model_1349_40_3_1349
+our y ▁party ▁f ar ▁took ▁e ra oise ore 

@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 10
+rnnlm file: bn_s3/model_1972_40_3_1972
+▁মু স্তা পুত ▁বোন ▁তো ▁তুই ▁কা হি ন্দ ▁পাপন 

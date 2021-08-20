@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 10
+rnnlm file: bn_s2/model_723_300_10_1
+▁তা তে ▁দেখ ান ো ▁হ ▁তা ক এ র 

@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 100
+rnnlm file: en_s2/model_250_40_3_243
+▁ma un g er ling s ing ▁l oo d g et ▁began ▁r un ch ▁h ar e ▁get t l ar r ing ▁b r it ing ▁r ead ▁a m u ▁went ▁went ▁well ▁thought ▁alice ▁ma st ed ▁thought ▁alice ▁l o se ▁see ▁m an ut e ver s ▁s een ▁t ook ▁h ur ried s ▁sh out i ve ▁n and s ▁t al king w er r ou d ▁king ▁h es p a p s ▁get ▁p ar t ur ed s ion ▁g oo d ▁first ▁li f f er 

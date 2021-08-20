@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 10
+rnnlm file: en_s2/model_250_100_6_243
+▁th e y ▁b ea ck ▁t al ▁m in 

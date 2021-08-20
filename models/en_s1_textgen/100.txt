@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 100
+rnnlm file: en_s1/model_33_150_7_1
+▁ q u e e n ▁ s t a r r u p a y ▁ o u s l y ▁ m a r c h ▁ h o l e p h e n ▁ a p p e a r s ▁ g u d e n n ▁ o v e r y t h i n g ▁ t h e r i n k ▁ n e v e r ▁ w e l l ▁ n e w ▁ r a t h l e ▁ h a n d ▁ s 

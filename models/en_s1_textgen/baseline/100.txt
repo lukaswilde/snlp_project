@@ -1,0 +1,4 @@
+debug mode: 2
+Generating # words: 100
+rnnlm file: en_s1/model_33_40_3_33
+h ▁ s u r g e ▁ k i n g ▁ i n d e a r i n g ▁ m u s h ▁ r a n d ▁ a l i c e ▁ o n e ▁ k w o r t u u p ▁ p o o l ▁ s a i d ▁ d i s a o n i l y ▁ n ▁ s o r e ▁ e x b l l y ▁ u p o n ▁ c a n ▁ b o k e ▁ 
